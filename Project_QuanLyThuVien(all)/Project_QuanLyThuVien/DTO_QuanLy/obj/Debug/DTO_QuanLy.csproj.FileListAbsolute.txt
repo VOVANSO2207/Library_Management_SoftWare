@@ -1,0 +1,12 @@
+D:\Project_QuanLyThuVien\DTO_QuanLy\bin\Debug\DTO_QuanLy.dll
+D:\Project_QuanLyThuVien\DTO_QuanLy\bin\Debug\DTO_QuanLy.pdb
+D:\Project_QuanLyThuVien\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.AssemblyReference.cache
+D:\Project_QuanLyThuVien\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.CoreCompileInputs.cache
+D:\Project_QuanLyThuVien\DTO_QuanLy\obj\Debug\DTO_QuanLy.dll
+D:\Project_QuanLyThuVien\DTO_QuanLy\obj\Debug\DTO_QuanLy.pdb
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DTO_QuanLy\bin\Debug\DTO_QuanLy.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DTO_QuanLy\bin\Debug\DTO_QuanLy.pdb
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.AssemblyReference.cache
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.CoreCompileInputs.cache
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DTO_QuanLy\obj\Debug\DTO_QuanLy.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DTO_QuanLy\obj\Debug\DTO_QuanLy.pdb

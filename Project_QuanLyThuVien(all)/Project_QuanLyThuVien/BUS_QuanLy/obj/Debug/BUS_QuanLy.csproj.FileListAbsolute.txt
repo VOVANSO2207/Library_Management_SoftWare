@@ -1,0 +1,52 @@
+D:\Project_QuanLyThuVien\BUS_QuanLy\bin\Debug\BUS_QuanLy.dll.config
+D:\Project_QuanLyThuVien\BUS_QuanLy\bin\Debug\BUS_QuanLy.dll
+D:\Project_QuanLyThuVien\BUS_QuanLy\bin\Debug\BUS_QuanLy.pdb
+D:\Project_QuanLyThuVien\BUS_QuanLy\bin\Debug\DTO_QuanLy.dll
+D:\Project_QuanLyThuVien\BUS_QuanLy\bin\Debug\DTO_QuanLy.pdb
+D:\Project_QuanLyThuVien\BUS_QuanLy\obj\Debug\BUS_QuanLy.csproj.AssemblyReference.cache
+D:\Project_QuanLyThuVien\BUS_QuanLy\obj\Debug\BUS_QuanLy.csproj.CoreCompileInputs.cache
+D:\Project_QuanLyThuVien\BUS_QuanLy\obj\Debug\BUS_QuanLy.csproj.CopyComplete
+D:\Project_QuanLyThuVien\BUS_QuanLy\obj\Debug\BUS_QuanLy.dll
+D:\Project_QuanLyThuVien\BUS_QuanLy\obj\Debug\BUS_QuanLy.pdb
+D:\Project_QuanLyThuVien\BUS_QuanLy\bin\Debug\DAL_QuanLy.dll
+D:\Project_QuanLyThuVien\BUS_QuanLy\bin\Debug\DAL_QuanLy.pdb
+D:\Project_QuanLyThuVien\BUS_QuanLy\bin\Debug\DAL_QuanLy.dll.config
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\BUS_QuanLy\bin\Debug\BUS_QuanLy.dll.config
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\BUS_QuanLy\bin\Debug\BUS_QuanLy.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\BUS_QuanLy\bin\Debug\BUS_QuanLy.pdb
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\BUS_QuanLy\bin\Debug\DAL_QuanLy.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\BUS_QuanLy\bin\Debug\DTO_QuanLy.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\BUS_QuanLy\bin\Debug\DAL_QuanLy.pdb
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\BUS_QuanLy\bin\Debug\DAL_QuanLy.dll.config
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\BUS_QuanLy\bin\Debug\DTO_QuanLy.pdb
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\BUS_QuanLy\obj\Debug\BUS_QuanLy.csproj.AssemblyReference.cache
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\BUS_QuanLy\obj\Debug\BUS_QuanLy.csproj.CoreCompileInputs.cache
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\BUS_QuanLy\obj\Debug\BUS_QuanLy.csproj.CopyComplete
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\BUS_QuanLy\obj\Debug\BUS_QuanLy.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\BUS_QuanLy\obj\Debug\BUS_QuanLy.pdb
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\BUS_QuanLy\bin\Debug\BUS_QuanLy.dll.config
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\BUS_QuanLy\bin\Debug\BUS_QuanLy.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\BUS_QuanLy\bin\Debug\BUS_QuanLy.pdb
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\BUS_QuanLy\bin\Debug\DAL_QuanLy.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\BUS_QuanLy\bin\Debug\DTO_QuanLy.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\BUS_QuanLy\bin\Debug\DAL_QuanLy.pdb
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\BUS_QuanLy\bin\Debug\DAL_QuanLy.dll.config
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\BUS_QuanLy\bin\Debug\DTO_QuanLy.pdb
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\BUS_QuanLy\obj\Debug\BUS_QuanLy.csproj.AssemblyReference.cache
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\BUS_QuanLy\obj\Debug\BUS_QuanLy.csproj.CoreCompileInputs.cache
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\BUS_QuanLy\obj\Debug\BUS_QuanLy.csproj.CopyComplete
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\BUS_QuanLy\obj\Debug\BUS_QuanLy.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\BUS_QuanLy\obj\Debug\BUS_QuanLy.pdb
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\BUS_QuanLy\bin\Debug\BUS_QuanLy.dll.config
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\BUS_QuanLy\bin\Debug\BUS_QuanLy.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\BUS_QuanLy\bin\Debug\BUS_QuanLy.pdb
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\BUS_QuanLy\bin\Debug\DAL_QuanLy.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\BUS_QuanLy\bin\Debug\DTO_QuanLy.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\BUS_QuanLy\bin\Debug\DAL_QuanLy.pdb
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\BUS_QuanLy\bin\Debug\DAL_QuanLy.dll.config
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\BUS_QuanLy\bin\Debug\DTO_QuanLy.pdb
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\BUS_QuanLy\obj\Debug\BUS_QuanLy.csproj.AssemblyReference.cache
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\BUS_QuanLy\obj\Debug\BUS_QuanLy.csproj.CoreCompileInputs.cache
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\BUS_QuanLy\obj\Debug\BUS_QuanLy.csproj.CopyComplete
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\BUS_QuanLy\obj\Debug\BUS_QuanLy.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\BUS_QuanLy\obj\Debug\BUS_QuanLy.pdb

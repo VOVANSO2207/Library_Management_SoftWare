@@ -1,0 +1,524 @@
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\DAL_QuanLy.dll.config
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\DAL_QuanLy.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\DAL_QuanLy.pdb
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Azure.Core.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Azure.Identity.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\DTO_QuanLy.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Identity.Client.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Win32.Registry.AccessControl.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Win32.Registry.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Win32.SystemEvents.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Buffers.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.CodeDom.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Data.Odbc.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Data.OleDb.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Data.SqlClient.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Diagnostics.EventLog.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Drawing.Common.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.IO.Packaging.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.IO.Pipes.AccessControl.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.IO.Ports.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Memory.Data.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Memory.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Numerics.Vectors.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.AccessControl.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.Cryptography.Cng.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.Cryptography.Pkcs.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.Cryptography.Xml.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.Permissions.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.Principal.Windows.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceModel.Duplex.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceModel.Http.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceModel.NetTcp.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceModel.Primitives.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceModel.Security.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceModel.Syndication.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceProcess.ServiceController.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Text.Encodings.Web.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Text.Json.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Threading.AccessControl.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ValueTuple.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Web.Services.Description.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\DTO_QuanLy.pdb
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Azure.Core.xml
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Azure.Identity.xml
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Identity.Client.xml
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Buffers.xml
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.CodeDom.xml
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Data.Odbc.xml
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Data.OleDb.xml
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Data.SqlClient.xml
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Diagnostics.EventLog.xml
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Drawing.Common.pdb
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Drawing.Common.xml
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.IO.Packaging.xml
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.IO.Ports.xml
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Memory.xml
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Memory.Data.xml
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Numerics.Vectors.xml
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.AccessControl.xml
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.Permissions.xml
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.Principal.Windows.xml
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceModel.Duplex.pdb
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceModel.Http.pdb
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceModel.NetTcp.pdb
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceModel.Primitives.pdb
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceModel.Security.pdb
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceModel.Syndication.xml
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Text.Encodings.Web.xml
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Text.Json.xml
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Threading.AccessControl.xml
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ValueTuple.xml
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Web.Services.Description.pdb
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.AssemblyReference.cache
+D:\Project_QuanLyThuVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.CoreCompileInputs.cache
+D:\Project_QuanLyThuVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.CopyComplete
+D:\Project_QuanLyThuVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.dll
+D:\Project_QuanLyThuVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.pdb
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\DAL_QuanLy.dll.config
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\DAL_QuanLy.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\DAL_QuanLy.pdb
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Azure.Core.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Azure.Identity.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\DTO_QuanLy.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Identity.Client.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Win32.Registry.AccessControl.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Win32.Registry.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Win32.SystemEvents.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Buffers.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.CodeDom.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Data.Odbc.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Data.OleDb.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Data.SqlClient.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Diagnostics.EventLog.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Drawing.Common.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.IO.Packaging.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.IO.Pipes.AccessControl.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.IO.Ports.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Memory.Data.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Memory.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Numerics.Vectors.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.AccessControl.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.Cryptography.Cng.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.Cryptography.Pkcs.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.Cryptography.Xml.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.Permissions.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.Principal.Windows.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceModel.Duplex.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceModel.Http.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceModel.NetTcp.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceModel.Primitives.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceModel.Security.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceModel.Syndication.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceProcess.ServiceController.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Text.Encodings.Web.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Text.Json.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Threading.AccessControl.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ValueTuple.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Web.Services.Description.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\DTO_QuanLy.pdb
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Azure.Core.xml
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Azure.Identity.xml
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Identity.Client.xml
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Win32.Registry.xml
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Buffers.xml
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.CodeDom.xml
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Data.Odbc.xml
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Data.OleDb.xml
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Data.SqlClient.xml
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Diagnostics.EventLog.xml
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Drawing.Common.pdb
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Drawing.Common.xml
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.IO.Packaging.xml
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.IO.Ports.xml
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Memory.xml
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Memory.Data.xml
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Numerics.Vectors.xml
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.AccessControl.xml
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.Permissions.xml
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.Principal.Windows.xml
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceModel.Duplex.pdb
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceModel.Http.pdb
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceModel.NetTcp.pdb
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceModel.Primitives.pdb
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceModel.Security.pdb
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceModel.Syndication.xml
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Text.Encodings.Web.xml
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Text.Json.xml
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Threading.AccessControl.xml
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ValueTuple.xml
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Web.Services.Description.pdb
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.AssemblyReference.cache
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.CoreCompileInputs.cache
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.CopyComplete
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.dll
+D:\LTUD\FINALVER\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.pdb
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\DAL_QuanLy.dll.config
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\DAL_QuanLy.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\DAL_QuanLy.pdb
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Azure.Core.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Azure.Identity.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\DTO_QuanLy.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Win32.SystemEvents.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Buffers.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.CodeDom.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Data.Odbc.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Data.OleDb.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Data.SqlClient.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Diagnostics.EventLog.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Drawing.Common.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.IO.Packaging.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.IO.Pipes.AccessControl.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.IO.Ports.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Memory.Data.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Memory.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.AccessControl.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.Permissions.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceModel.Duplex.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceModel.Http.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceModel.Security.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceModel.Syndication.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceProcess.ServiceController.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Text.Json.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Threading.AccessControl.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ValueTuple.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Web.Services.Description.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\DTO_QuanLy.pdb
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Azure.Core.xml
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Azure.Identity.xml
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Buffers.xml
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.CodeDom.xml
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Data.Odbc.xml
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Data.OleDb.xml
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Data.SqlClient.xml
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Drawing.Common.pdb
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Drawing.Common.xml
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.IO.Packaging.xml
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.IO.Ports.xml
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Memory.xml
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Memory.Data.xml
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.AccessControl.xml
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.Permissions.xml
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceModel.Duplex.pdb
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceModel.Http.pdb
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceModel.NetTcp.pdb
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceModel.Security.pdb
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Text.Json.xml
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ValueTuple.xml
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Web.Services.Description.pdb
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.AssemblyReference.cache
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.CoreCompileInputs.cache
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.CopyComplete
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.dll
+C:\Users\VO VAN SO\Downloads\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.pdb
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\DAL_QuanLy.dll.config
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\DAL_QuanLy.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\DAL_QuanLy.pdb
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Azure.Core.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Azure.Identity.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\DTO_QuanLy.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Identity.Client.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Win32.Registry.AccessControl.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Win32.Registry.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Win32.SystemEvents.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Buffers.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.CodeDom.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Data.Odbc.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Data.OleDb.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Data.SqlClient.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Diagnostics.EventLog.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Drawing.Common.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.IO.Packaging.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.IO.Pipes.AccessControl.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.IO.Ports.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Memory.Data.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Memory.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Numerics.Vectors.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.AccessControl.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.Cryptography.Cng.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.Cryptography.Pkcs.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.Cryptography.Xml.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.Permissions.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.Principal.Windows.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceModel.Duplex.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceModel.Http.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceModel.NetTcp.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceModel.Primitives.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceModel.Security.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceModel.Syndication.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceProcess.ServiceController.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Text.Encodings.Web.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Text.Json.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Threading.AccessControl.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ValueTuple.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Web.Services.Description.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\DTO_QuanLy.pdb
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Azure.Core.xml
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Azure.Identity.xml
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Identity.Client.xml
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Buffers.xml
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.CodeDom.xml
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Data.Odbc.xml
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Data.OleDb.xml
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Data.SqlClient.xml
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Diagnostics.EventLog.xml
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Drawing.Common.pdb
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Drawing.Common.xml
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.IO.Packaging.xml
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.IO.Ports.xml
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Memory.xml
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Memory.Data.xml
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Numerics.Vectors.xml
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.AccessControl.xml
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.Permissions.xml
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Security.Principal.Windows.xml
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceModel.Duplex.pdb
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceModel.Http.pdb
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceModel.NetTcp.pdb
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceModel.Primitives.pdb
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceModel.Security.pdb
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceModel.Syndication.xml
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Text.Encodings.Web.xml
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Text.Json.xml
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Threading.AccessControl.xml
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.ValueTuple.xml
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\System.Web.Services.Description.pdb
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.AssemblyReference.cache
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.CoreCompileInputs.cache
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.CopyComplete
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.dll
+D:\Hoan_Thanh\Project_QuanLyThuVien(new)\Project_QuanLyThuVien(all)\Project_QuanLyThuVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.pdb
